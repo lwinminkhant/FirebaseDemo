@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FirebaseDemo</string>
+
+    <string name="anonymous">Anonymous</string>
+    <string name="sign_out">Sign Out</string>
+    <string name="default_notification_channel_id">important</string>
+    <string name="default_web_client_id">887005415878-qmo6lofnmi8vrmsj9p9ev2j7v3i9sdn4.apps.googleusercontent.com</string>
+</resources>
